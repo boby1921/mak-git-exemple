@@ -8,6 +8,16 @@ public class Test {
 		this.message = message;
 		System.out.println("test");
 	}
+
+	public String getMessage() {
+		return message;
+	}
+
+	public void setMessage(String message) {
+		this.message = message;
+	}
+	
+	
 	
 	
 }
