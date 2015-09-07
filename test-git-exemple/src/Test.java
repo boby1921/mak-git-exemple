@@ -6,6 +6,7 @@ public class Test {
 	public Test(String message) {
 		super();
 		this.message = message;
+		System.out.println("test");
 	}
 	
 	
