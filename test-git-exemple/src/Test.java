@@ -22,7 +22,9 @@ public class Test {
 		System.out.println("cedric");
 		
 		
-		System.out.println("test");
+		System.out.println("cedric 2");
+		
+		
 		System.out.println("test");
 		System.out.println("test");
 		System.out.println("test");
