@@ -19,7 +19,7 @@ public class Test {
 		System.out.println("test");
 		System.out.println("rouge");
 		System.out.println("coucou mack !");
-System.out.println("cedric");
+		System.out.println("cedric");
 		
 		
 		System.out.println("cedric 2");
@@ -37,6 +37,9 @@ System.out.println("cedric");
 	
 	public void testcedric() {
 		System.out.println("test_cedric");
+	}
+	public void testMak() {
+		System.out.println("mak");
 	}
 
 	public String getMessage() {
