@@ -8,6 +8,16 @@ public class Test {
 		this.message = message;
 		System.out.println("test");
 	}
-	
-	
+
+	public void toto() {
+		System.out.println("test");
+		System.out.println("test");
+		System.out.println("test");
+		System.out.println("test");
+		System.out.println("test");
+		System.out.println("test");
+		System.out.println("test");
+		System.out.println("test");
+	}
+
 }
