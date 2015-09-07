@@ -9,6 +9,7 @@ public class Test {
 		System.out.println("test");
 	}
 
+
 	public void toto() {
 		System.out.println("test");
 		System.out.println("test");
@@ -23,4 +24,12 @@ public class Test {
 		System.out.println("test");
 	}
 
+	public String getMessage() {
+		return message;
+	}
+
+	public void setMessage(String message) {
+		this.message = message;
+	}
+	
 }
