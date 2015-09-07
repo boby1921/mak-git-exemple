@@ -23,6 +23,10 @@ public class Test {
 		System.out.println("test");
 		System.out.println("test");
 	}
+	
+	public void testcedric() {
+		System.out.println("test_cedric");
+	}
 
 	public String getMessage() {
 		return message;
