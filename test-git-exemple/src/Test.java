@@ -22,6 +22,8 @@ public class Test {
 		System.out.println("test");
 		System.out.println("test");
 		System.out.println("test");
+		
+		System.out.println("amak");
 	}
 	
 	public void testcedric() {
