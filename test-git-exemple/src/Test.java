@@ -34,13 +34,7 @@ public class Test {
 		
 		System.out.println("tttttttttttttttttttttttttttttttttttttttttt");
 	}
-	
-	public void testcedric() {
-		System.out.println("test_cedric");
-	}
-	public void testMak() {
-		System.out.println("mak");
-	}
+
 
 	public String getMessage() {
 		return message;
